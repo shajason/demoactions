@@ -21,6 +21,6 @@ jobs:
           secret-id: ${{ secrets.CODIO_SECRET_ID }}
           dir: ./
           course-name: "Demo Github Actions" 
-          assignment-id: 1a899f7c2f6f739ef617ec1a3ed94cf7
+          assignment-name: "Assignment 1"
           changelog: ${{ github.event.head_commit.message }}
           yml: "./.github/yaml_map"
