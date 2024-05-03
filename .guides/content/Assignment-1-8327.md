@@ -77,6 +77,7 @@ print(f"Ending Balance: ${(simple_interest + principal):.2f}")
 
 {Try It | terminal}(python3 simple_interest.py)
 
+
 {Check It!|assessment}(test-3725688633)
 
 
