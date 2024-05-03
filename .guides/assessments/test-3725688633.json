@@ -13,7 +13,7 @@
 		},
 		"maxAttemptsCount": 0,
 		"points": 20,
-		"arePartialPointsAllowed": false,
+		"arePartialPointsAllowed": true,
 		"useMaximumScore": false,
 		"metadata": {
 			"tags": [
