@@ -2,7 +2,7 @@ name: codio-publish
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   publish:
