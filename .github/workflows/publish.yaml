@@ -23,4 +23,4 @@ jobs:
           course-name: "Demo Github Actions" 
           assignment-name: "Assignment 1"
           changelog: ${{ github.event.head_commit.message }}
-          yml: "./.github/yaml_map"
+          domain: codio.com
