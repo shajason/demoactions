@@ -1,0 +1,23 @@
+{
+	"id": "8327b950-6669-d9d7-e96e-53c1f74c9fdb",
+	"title": "Assignment 1",
+	"files": [
+		{
+			"path": "#terminal: clear;",
+			"panel": 1,
+			"action": "open"
+		},
+		{
+			"path": "simple_interest.py",
+			"panel": 0,
+			"action": "open"
+		}
+	],
+	"path": [],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-cell"
+}
